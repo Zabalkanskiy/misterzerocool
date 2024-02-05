@@ -14,7 +14,7 @@ I am a Android developer<img src="https://giphy.com/gifs/xThuWu82QD3pj4wvEQ" wid
 
 
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AleksandrAndroidDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zabalkanskiy) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:moobi3490@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Aleksandr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zabalkanskiy) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:moobi3490@gmail.com)
 
 ---
 
